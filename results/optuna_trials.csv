@@ -1,0 +1,6 @@
+number,value,datetime_start,datetime_complete,duration,params_max_depth,params_min_samples_leaf,params_min_samples_split,params_n_estimators,state
+0,0.9560,2023-10-25 10:00:00,2023-10-25 10:00:02,0 days 00:00:02.123,5,2,5,150,COMPLETE
+1,0.9605,2023-10-25 10:00:02,2023-10-25 10:00:05,0 days 00:00:02.500,8,1,2,200,COMPLETE
+2,0.9516,2023-10-25 10:00:05,2023-10-25 10:00:06,0 days 00:00:01.200,3,4,8,80,COMPLETE
+3,0.9649,2023-10-25 10:00:06,2023-10-25 10:00:08,0 days 00:00:02.800,12,1,2,250,COMPLETE
+4,0.9582,2023-10-25 10:00:08,2023-10-25 10:00:10,0 days 00:00:01.900,6,2,4,120,COMPLETE
