@@ -1,0 +1,4 @@
+optuna
+pandas
+scikit-learn
+matplotlib
